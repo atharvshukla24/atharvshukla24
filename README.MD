@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Atharv Shukla Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋 I'm Atharv Shukla</h1>
 
 <h3 align="center">
