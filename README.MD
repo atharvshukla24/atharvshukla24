@@ -1,29 +1,25 @@
-<p align="center">
-  <img src="./banner.png" alt="Atharv Banner" width="100%">
-</p>
-
-<h1 align="center">Hi 👋 I'm Atharv Shukla</h1>
-
-<h3 align="center">
-Backend Developer | Java • Spring Boot • AI/ML
-</h3>
+<h1 align="center">Hi 👋, I'm Atharv Shukla</h1>
 
 <p align="center">
-Building scalable backend applications while exploring AI & Machine Learning.
+  <b>Backend Developer | Java • Spring Boot • AI/ML</b>
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
+Building scalable backend applications while exploring Artificial Intelligence and Machine Learning.
+</p>
 
-<a href="https://leetcode.com/u/atharv89/">
-<img src="https://skillicons.dev/icons?i=leetcode" height="45"/>
-</a>
-
-<a href="https://instagram.com/atharv_shukla24">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/atharv89/">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="42"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/atharv_shukla24">
+    <img src="https://skillicons.dev/icons?i=instagram" height="42"/>
+  </a>
 </p>
 
 ---
@@ -31,9 +27,7 @@ Building scalable backend applications while exploring AI & Machine Learning.
 ## 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,git,docker,react&perline=7"/>
-
+<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,git,docker,react&perline=7" />
 </p>
 
 ---
@@ -41,11 +35,8 @@ Building scalable backend applications while exploring AI & Machine Learning.
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=atharvshukla24&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=atharvshukla24&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=atharvshukla24&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvshukla24&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -53,7 +44,5 @@ Building scalable backend applications while exploring AI & Machine Learning.
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=atharvshukla24&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=atharvshukla24&theme=github-dark&hide_border=true"/>
 </p>
