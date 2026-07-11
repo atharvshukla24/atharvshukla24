@@ -10,15 +10,7 @@ Building scalable backend applications with Java & Spring Boot while exploring A
 
 ---
 
-### 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science Student
-- 💻 Currently learning **Spring Boot**, **System Design**, and **DSA**
-- 🤖 Interested in **Backend Development** and **AI/ML**
-- 🚀 Building projects to prepare for Software Engineering roles
-- 📍 India
-
----
 
 ### 🌐 Connect with Me
 
@@ -70,15 +62,7 @@ Building scalable backend applications with Java & Spring Boot while exploring A
 
 ---
 
-### 🚀 Current Focus
 
-- Java Backend Development
-- Spring Boot REST APIs
-- Data Structures & Algorithms
-- System Design
-- AI & Machine Learning
-
----
 
 <p align="center">
 
