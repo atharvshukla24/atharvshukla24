@@ -9,16 +9,20 @@ Building scalable backend applications while exploring Artificial Intelligence a
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="www.linkedin.com/in/atharv-shukla-959476323">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/atharv_shukla24">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
   <a href="https://leetcode.com/u/atharv89/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 
-  <a href="mailto:atharvshukla87@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:atharvshukla877@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -27,19 +31,23 @@ Building scalable backend applications while exploring Artificial Intelligence a
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,git,docker,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,git,docker,react&theme=dark" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Stats
 
-- 🔹 **JanVoice AI** — AI-powered citizen grievance platform
-- 🔹 **Bank Management System** *(Coming Soon)*
-- 🔹 **Cool Star (JioHotstar Clone)** *(In Progress)*
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=atharvshukla24&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvshukla24&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 ---
 
+## 🔥 GitHub Streak
+
 <p align="center">
-⭐ Thanks for visiting my profile!
+<img src="https://streak-stats.demolab.com?user=atharvshukla24&theme=github-dark&hide_border=true"/>
 </p>
