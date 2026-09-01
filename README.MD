@@ -9,7 +9,7 @@ Building scalable backend applications while exploring Artificial Intelligence a
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/atharvshukla24">
+  <a href="https://www.linkedin.com/in/atharvshukla24/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
